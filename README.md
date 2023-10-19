@@ -10,7 +10,7 @@
     - [Install ](#install-)
     - [Usage ](#usage-)
     - [Test ](#test-)
-  - [👥 Authors ](#-authors-)
+  - [👥 Author ](#-author-)
     - [👤 **Henry Odongo**](#-henry-odongo)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
