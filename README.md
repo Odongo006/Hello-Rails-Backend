@@ -100,7 +100,7 @@ To test the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-### 👤 **Mert Kantaroglu**
+### 👤 **Henry Omondi**
 
 - GitHub: [@Henry](https://github.com/Odongo006/)
 - Twitter: [@Henry](https://twitter.com/HenryOdongo007)
