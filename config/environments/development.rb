@@ -53,6 +53,16 @@ Rails.application.configure do
   # Highlight code that triggered database queries in logs.
   config.active_record.verbose_query_logs = true
 
+      # Add CORS configuration here
+      config.middleware.insert_before 0, Rack::Cors do
+        allow do
+          origins 'http://localhost:3002'  # Replace with the actual origin of your frontend
+          resource '/api/*',
+            headers: :any,
+            methods: [:get, :post, :put, :patch, :delete, :options]
+        end
+      end
+
 
   # Raises error for missing translations.
   # config.i18n.raise_on_missing_translations = true
