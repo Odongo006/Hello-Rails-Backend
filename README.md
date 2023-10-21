@@ -22,7 +22,7 @@
 
 # 📖 Hello Rails Back End <a name="about-project"></a>
 
-**Hello Rails Back End** is a project using Ruby on Rails for the backend as an API point to the front end for [Hello-React-Front-End](https://github.com/Odongo006/Hello-Rails-frontend).
+**Hello Rails Back End** is a project using Ruby on Rails for the backend as an API point to the front end for [Hello-React-Front-End](https://github.com/Odongo006/Hello-Rails-Backend/tree/setub2).
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -100,7 +100,7 @@ To test the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-### 👤 **Mert Kantaroglu**
+### 👤 **Henry Omondi**
 
 - GitHub: [@Henry](https://github.com/Odongo006/)
 - Twitter: [@Henry](https://twitter.com/HenryOdongo007)
